@@ -1,1 +1,1 @@
-# Portfolio-
+"This is a responsive personal portfolio website built with only HTML5 and CSS3. It has a navigation bar, a hero section, About, Skills, Projects, Contact and Footer sections, all linked by section IDs. I used CSS variables for the colour palette, Flexbox and Grid for the layout, and hover and focus states on the buttons and cards. Media queries keep the site readable on tablet and mobile screens with no horizontal scrolling."
